@@ -1,0 +1,1 @@
+In React Native, when using AsyncStorage to store and retrieve data, a common error is encountering a TypeError: undefined is not an object (evaluating 'AsyncStorage.setItem') or similar errors related to AsyncStorage being undefined. This typically happens when AsyncStorage is not properly imported or linked within the project.
