@@ -1,0 +1,2 @@
+# React Native AsyncStorage TypeError
+This repository demonstrates a common error encountered when using AsyncStorage in React Native: a TypeError indicating that AsyncStorage is undefined.  The `bug.js` file shows the problematic code, while `bugSolution.js` provides the corrected version. This issue often arises from improper import statements or linking issues. The solution involves ensuring the AsyncStorage library is correctly imported and linked within the React Native project.
